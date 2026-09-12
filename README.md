@@ -1,4 +1,5 @@
 👋 Emmanuel DIGBEU
+
 🎯 Data Analyst | Pilotage de la performance | Reporting & aide à la décision
 
 Data Analyst spécialisé dans l’analyse et le pilotage de la performance, avec une formation en économétrie et statistiques.
