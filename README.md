@@ -1,5 +1,7 @@
 # 👋 Emmanuel DIGBEU
 
+**Plus de 3 ans d’expérience en analyse de données, principalement dans le secteur des télécommunications.**
+
 ### 🎯 Data Analyst | Pilotage de la performance | Reporting & aide à la décision
 
 Data Analyst spécialisé dans l’analyse et le pilotage de la performance, avec une formation en économétrie et statistiques.
