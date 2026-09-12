@@ -13,25 +13,27 @@ J’utilise notamment Power BI, Excel, SQL (PostgreSQL, Starburst) et R/RStudio 
 > **Mon objectif : transformer les données en informations claires, utiles et exploitables pour la décision.**
 
 ---
-
 ## 🛠️ Compétences & outils
 
-### 📊 Data Analysis
-- Analyse et interprétation des données
-- Construction et suivi de KPI
-- Reporting et aide à la décision
-- Contrôle et qualité des données
+### 📊 Analyse & Pilotage
+- Analyse exploratoire et interprétation des données
+- Construction et suivi des KPI
+- Reporting de performance
+- Analyse des écarts et suivi des objectifs
+- Aide à la décision
 
 ### 📈 Business Intelligence
-- Power BI : dashboards, KPI, DAX, Power Query
-- Excel : analyse, reporting, automatisation VBA
+- **Power BI** : dashboards, DAX, Power Query, KPI
+- **Excel** : analyse, reporting, TCD, formules, VBA
+- **PowerPoint** : présentation et restitution des analyses
 
-### 💻 Programmation & Data
-- SQL : PostgreSQL, Starburst
-- R / RStudio
-- Python : analyse et traitement des données
+### 💻 Data & Programmation
+- **SQL** : PostgreSQL, Starburst
+- **R / RStudio** : analyse statistique et traitement des données
+- **Python** : analyse et traitement des données
 
-### 📋 Restitution
-- Présentations PowerPoint
-- Visualisation des données
-- Supports de pilotage
+### 🔎 Data Quality
+- Contrôle et validation des données
+- Analyse des incohérences
+- Nettoyage et préparation des données
+- Fiabilisation des reportings
