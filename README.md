@@ -37,3 +37,14 @@ J’utilise notamment Power BI, Excel, SQL (PostgreSQL, Starburst) et R/RStudio 
 - Analyse des incohérences
 - Nettoyage et préparation des données
 - Fiabilisation des reportings
+
+  ## 📂 Projets sélectionnés
+
+### 📊 [Dashboard de Performance Commerciale](https://github.com/EmmanuelDigbeu/project_performance_dashboard)
+
+<a href="https://github.com/EmmanuelDigbeu/project_performance_dashboard">
+  <img src="https://raw.githubusercontent.com/EmmanuelDigbeu/project_performance_dashboard/main/dashboard_overview.png" width="700" alt="Aperçu du dashboard" />
+</a>
+
+Outil de pilotage de la performance commerciale (CA, transactions, rabais) avec identification des sous-performances par catégorie et par ville.
+**Outils :** Power BI · DAX · Power Query
