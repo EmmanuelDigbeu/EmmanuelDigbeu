@@ -38,7 +38,7 @@ J’utilise notamment Power BI, Excel, SQL (PostgreSQL, Starburst) et R/RStudio 
 - Nettoyage et préparation des données
 - Fiabilisation des reportings
 
-  ## 📂 Projets sélectionnés
+## 📂 Projets réalisés
 
 ### 📊 [Dashboard de Performance Commerciale](https://github.com/EmmanuelDigbeu/project_performance_dashboard)
 
