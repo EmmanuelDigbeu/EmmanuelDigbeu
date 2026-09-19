@@ -57,7 +57,17 @@ J'utilise notamment Power BI, Excel, SQL (PostgreSQL, Starburst) et R/Python pou
 
 ## 💼 Illustrations de mon travail
 
-Ces deux projets montrent le processus complet, de la donnée brute jusqu'à la restitution — la partie visible (dashboard) n'en est que l'aboutissement.
+Ces trois projets montrent le processus complet, de la donnée brute jusqu'à la restitution — la partie visible (dashboard ou app) n'en est que l'aboutissement.
+
+### 🏦 [Credit Scoring App](https://github.com/EmmanuelDigbeu/credit-scoring-app) — `Live`
+Modèle de scoring de crédit à partir du profil client (régression logistique vs Random Forest, comparaison des performances), exposé via une application interactive permettant de simuler une décision d'octroi de crédit en temps réel.
+`R` `Shiny` `glm` `Random Forest` `pROC`
+
+[![Démo Live](https://img.shields.io/badge/D%C3%A9mo-Live-22c55e?style=flat-square)](https://emmanueldigbeu.shinyapps.io/JOB_Credit_Scoring_App/)
+
+<a href="https://github.com/EmmanuelDigbeu/credit-scoring-app">
+  <img src="https://raw.githubusercontent.com/EmmanuelDigbeu/credit-scoring-app/main/app_preview.png" width="700" alt="Aperçu de l'app Credit Scoring" />
+</a>
 
 ### 🔍 [JOB HUNTER CI](https://github.com/EmmanuelDigbeu/job-hunter-ci) — `Live`
 Collecte automatisée sur ~23 sources, nettoyage et déduplication des données, construction d'une grille de scoring, puis restitution via Telegram.
