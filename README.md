@@ -65,19 +65,11 @@ Modèle de scoring de crédit à partir du profil client (régression logistique
 
 [![Démo Live](https://img.shields.io/badge/D%C3%A9mo-Live-22c55e?style=flat-square)](https://emmanueldigbeu.shinyapps.io/JOB_Credit_Scoring_App/)
 
-<a href="https://github.com/EmmanuelDigbeu/credit-scoring-app">
-  <img src="https://raw.githubusercontent.com/EmmanuelDigbeu/credit-scoring-app/main/app_preview.png" width="700" alt="Aperçu de l'app Credit Scoring" />
-</a>
-
 ### 🔍 [JOB HUNTER CI](https://github.com/EmmanuelDigbeu/job-hunter-ci) — `Live`
 Collecte automatisée sur ~23 sources, nettoyage et déduplication des données, construction d'une grille de scoring, puis restitution via Telegram.
 `R` `rvest` `httr` `Shiny` `API Telegram` `Task Scheduler`
 
 [![Démo Live](https://img.shields.io/badge/D%C3%A9mo-Live-22c55e?style=flat-square)](https://emmanueldigbeu.shinyapps.io/JOB_HUNTER_CI/)
-
-<a href="https://github.com/EmmanuelDigbeu/job-hunter-ci">
-  <img src="https://raw.githubusercontent.com/EmmanuelDigbeu/job-hunter-ci/main/demo_preview.png" width="700" alt="Aperçu de la démo JOB HUNTER CI" />
-</a>
 
 ### 📊 [Dashboard de Performance Commerciale](https://github.com/EmmanuelDigbeu/project_performance_dashboard)
 Analyse de données de vente multi-villes : traitement, calcul d'indicateurs (CA net, variations, rabais), interprétation des écarts de performance par catégorie et par ville, restitué sous forme de dashboard interactif.
